@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac
+END
+findertools.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/findertools.py
+END
+gensuitemodule.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/gensuitemodule.py
+END
+videoreader.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/videoreader.py
+END
+ic.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/ic.py
+END
+errors.rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/errors.rsrc
+END
+FrameWork.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/FrameWork.py
+END
+macerrors.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/macerrors.py
+END
+errors.rsrc.df.rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/errors.rsrc.df.rsrc
+END
+PixMapWrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/PixMapWrapper.py
+END
+applesingle.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/applesingle.py
+END
+dialogs.rsrc.df.rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/dialogs.rsrc.df.rsrc
+END
+dialogs.rsrc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/dialogs.rsrc
+END
+EasyDialogs.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/EasyDialogs.py
+END
+appletrawmain.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/appletrawmain.py
+END
+pimp.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/pimp.py
+END
+cfmfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/cfmfile.py
+END
+aetools.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/aetools.py
+END
+macresource.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/macresource.py
+END
+argvemulator.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/argvemulator.py
+END
+aetypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/aetypes.py
+END
+terminalcommand.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/terminalcommand.py
+END
+MiniAEFrame.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/MiniAEFrame.py
+END
+icopen.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/icopen.py
+END
+appletrunner.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/appletrunner.py
+END
+bundlebuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/bundlebuilder.py
+END
+buildtools.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/buildtools.py
+END
+Audio_mac.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/Audio_mac.py
+END
+macostools.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/macostools.py
+END
+aepack.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/aepack.py
+END
+bgenlocations.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/bgenlocations.py
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests
+END
+test_refactor.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/test_refactor.py
+END
+test_all_fixers.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/test_all_fixers.py
+END
+test_pytree.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/test_pytree.py
+END
+pytree_idempotency.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/pytree_idempotency.py
+END
+test_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/test_parser.py
+END
+test_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/test_util.py
+END
+support.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/support.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/__init__.py
+END
+test_fixers.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/lib2to3/tests/test_fixers.py
+END

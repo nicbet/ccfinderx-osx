@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer
+END
+Microsoft_Internet_Explorer.py
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/Microsoft_Internet_Explorer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/__init__.py
+END
+Web_Browser_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/Web_Browser_Suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/Standard_Suite.py
+END
+Required_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/Required_Suite.py
+END
+URL_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/URL_Suite.py
+END
+Netscape_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Explorer/Netscape_Suite.py
+END

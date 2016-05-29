@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses
+END
+has_key.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses/has_key.py
+END
+ascii.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses/ascii.py
+END
+textpad.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses/textpad.py
+END
+panel.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses/panel.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses/__init__.py
+END
+wrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/curses/wrapper.py
+END

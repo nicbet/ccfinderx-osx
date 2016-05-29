@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests
+END
+test_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_register.py
+END
+test_upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_upload.py
+END
+test_sdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_sdist.py
+END
+test_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_core.py
+END
+test_msvc9compiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_msvc9compiler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/__init__.py
+END
+test_dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_dist.py
+END
+test_sysconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_sysconfig.py
+END
+test_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_config.py
+END
+test_build_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_build_scripts.py
+END
+test_install.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_install.py
+END
+test_versionpredicate.py
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_versionpredicate.py
+END
+test_build_py.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_build_py.py
+END
+test_filelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_filelist.py
+END
+test_install_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_install_scripts.py
+END
+support.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/support.py
+END
+setuptools_extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/setuptools_extension.py
+END
+test_build_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_build_ext.py
+END
+test_bdist_wininst.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/test_bdist_wininst.py
+END
+setuptools_build_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/distutils/tests/setuptools_build_ext.py
+END

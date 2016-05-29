@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6
+END
+boolobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/boolobject.h
+END
+pyfpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pyfpe.h
+END
+marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/marshal.h
+END
+descrobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/descrobject.h
+END
+pystrtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pystrtod.h
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/compile.h
+END
+warnings.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/warnings.h
+END
+pgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pgen.h
+END
+pyexpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pyexpat.h
+END
+metagrammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/metagrammar.h
+END
+pydebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pydebug.h
+END
+pymacconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pymacconfig.h
+END
+bufferobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/bufferobject.h
+END
+genobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/genobject.h
+END
+Python-ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/Python-ast.h
+END
+fileobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/fileobject.h
+END
+intrcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/intrcheck.h
+END
+modsupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/modsupport.h
+END
+bytesobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/bytesobject.h
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pyconfig.h
+END
+pymactoolbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pymactoolbox.h
+END
+frameobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/frameobject.h
+END
+setobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/setobject.h
+END
+sysmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/sysmodule.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/node.h
+END
+pyerrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pyerrors.h
+END
+sliceobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/sliceobject.h
+END
+longobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/longobject.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/eval.h
+END
+bytearrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/bytearrayobject.h
+END
+ucnhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/ucnhash.h
+END
+iterobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/iterobject.h
+END
+enumobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/enumobject.h
+END
+classobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/classobject.h
+END
+datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/datetime.h
+END
+stringobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/stringobject.h
+END
+pyport.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pyport.h
+END
+complexobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/complexobject.h
+END
+codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/codecs.h
+END
+longintrepr.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/longintrepr.h
+END
+bytes_methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/bytes_methods.h
+END
+opcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/opcode.h
+END
+code.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/code.h
+END
+dictobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/dictobject.h
+END
+py_curses.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/py_curses.h
+END
+unicodeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/unicodeobject.h
+END
+intobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/intobject.h
+END
+pystrcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pystrcmp.h
+END
+errcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/errcode.h
+END
+asdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/asdl.h
+END
+rangeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/rangeobject.h
+END
+pgenheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pgenheaders.h
+END
+ceval.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/ceval.h
+END
+objimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/objimpl.h
+END
+timefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/timefuncs.h
+END
+pyarena.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pyarena.h
+END
+listobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/listobject.h
+END
+cobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/cobject.h
+END
+graminit.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/graminit.h
+END
+pygetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pygetopt.h
+END
+moduleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/moduleobject.h
+END
+traceback.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/traceback.h
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/token.h
+END
+Python.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/Python.h
+END
+funcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/funcobject.h
+END
+osdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/osdefs.h
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/grammar.h
+END
+pymem.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pymem.h
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/patchlevel.h
+END
+ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/ast.h
+END
+parsetok.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/parsetok.h
+END
+pystate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pystate.h
+END
+bitset.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/bitset.h
+END
+floatobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/floatobject.h
+END
+structseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/structseq.h
+END
+cStringIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/cStringIO.h
+END
+pymath.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pymath.h
+END
+abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/abstract.h
+END
+pythonrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pythonrun.h
+END
+cellobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/cellobject.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/object.h
+END
+methodobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/methodobject.h
+END
+import.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/import.h
+END
+weakrefobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/weakrefobject.h
+END
+structmember.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/structmember.h
+END
+pythread.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/pythread.h
+END
+tupleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/tupleobject.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/include/python2.6/symtable.h
+END

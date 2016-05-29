@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config
+END
+Setup
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/Setup
+END
+Setup.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/Setup.config
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/config.c
+END
+Setup.local
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/Setup.local
+END
+config.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/config.c.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/Makefile
+END
+makesetup
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/makesetup
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/config/install-sh
+END

@@ -1,0 +1,939 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		E2CB585B113CAED4006D451A /* Copy Files */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = E2CB5862113CAEFC006D451A /* Build configuration list for PBXAggregateTarget "Copy Files" */;
+			buildPhases = (
+				E2CB585A113CAED4006D451A /* CopyFiles */,
+			);
+			dependencies = (
+				E2CB585F113CAEDB006D451A /* PBXTargetDependency */,
+				E2CB5861113CAEDE006D451A /* PBXTargetDependency */,
+			);
+			name = "Copy Files";
+			productName = "Copy Files";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		E2BB5FA7113C4EB40034B03A /* ccfx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685650113C2E6900CAB92C /* ccfx.cpp */; };
+		E2CB5872113CB70D006D451A /* libboost_thread-mt.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586A113CB6D1006D451A /* libboost_thread-mt.a */; };
+		E2CB5873113CB70D006D451A /* libicudata.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586B113CB6D2006D451A /* libicudata.a */; };
+		E2CB5874113CB70D006D451A /* libicui18n.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586C113CB6D2006D451A /* libicui18n.a */; };
+		E2CB5875113CB70D006D451A /* libicuio.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586D113CB6D2006D451A /* libicuio.a */; };
+		E2CB5876113CB70D006D451A /* libicule.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586E113CB6D2006D451A /* libicule.a */; };
+		E2CB5877113CB70D006D451A /* libiculx.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586F113CB6D2006D451A /* libiculx.a */; };
+		E2CB5878113CB70D006D451A /* libicutu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5870113CB6D2006D451A /* libicutu.a */; };
+		E2CB5879113CB70D006D451A /* libicuuc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5871113CB6D2006D451A /* libicuuc.a */; };
+		E2CB587A113CB716006D451A /* Python.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5868113CB565006D451A /* Python.framework */; };
+		E2CB5894113CC150006D451A /* libboost_thread-mt.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586A113CB6D1006D451A /* libboost_thread-mt.a */; };
+		E2CB5895113CC150006D451A /* libicudata.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586B113CB6D2006D451A /* libicudata.a */; };
+		E2CB5896113CC150006D451A /* libicui18n.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586C113CB6D2006D451A /* libicui18n.a */; };
+		E2CB5897113CC150006D451A /* libicuio.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586D113CB6D2006D451A /* libicuio.a */; };
+		E2CB5898113CC150006D451A /* libicule.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586E113CB6D2006D451A /* libicule.a */; };
+		E2CB5899113CC150006D451A /* libiculx.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586F113CB6D2006D451A /* libiculx.a */; };
+		E2CB589A113CC150006D451A /* libicutu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5870113CB6D2006D451A /* libicutu.a */; };
+		E2CB589B113CC150006D451A /* libicuuc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5871113CB6D2006D451A /* libicuuc.a */; };
+		E2CB58E9113CD06A006D451A /* CCFinderXLib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2CB58E0113CCFCA006D451A /* CCFinderXLib.cpp */; };
+		E2CB58EE113CD0F6006D451A /* libboost_thread-mt.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586A113CB6D1006D451A /* libboost_thread-mt.a */; };
+		E2CB58EF113CD0F6006D451A /* libicudata.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586B113CB6D2006D451A /* libicudata.a */; };
+		E2CB58F0113CD0F6006D451A /* libicui18n.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586C113CB6D2006D451A /* libicui18n.a */; };
+		E2CB58F1113CD0F6006D451A /* libicuio.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586D113CB6D2006D451A /* libicuio.a */; };
+		E2CB58F2113CD0F6006D451A /* libicule.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586E113CB6D2006D451A /* libicule.a */; };
+		E2CB58F3113CD0F6006D451A /* libiculx.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB586F113CB6D2006D451A /* libiculx.a */; };
+		E2CB58F4113CD0F6006D451A /* libicutu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5870113CB6D2006D451A /* libicutu.a */; };
+		E2CB58F5113CD0F6006D451A /* libicuuc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5871113CB6D2006D451A /* libicuuc.a */; };
+		E2CB5902113CD1B8006D451A /* JavaVM.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2CB5901113CD1B8006D451A /* JavaVM.framework */; };
+		E2CB590B113CD240006D451A /* base64encoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268568D113C31EA00CAB92C /* base64encoder.cpp */; };
+		E2CB590C113CD240006D451A /* unportable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685698113C31EA00CAB92C /* unportable.cpp */; };
+		E2CB590D113CD240006D451A /* utf8support.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268569A113C31EA00CAB92C /* utf8support.cpp */; };
+		E2CB590E113CD240006D451A /* ccfxcommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685651113C2E6900CAB92C /* ccfxcommon.cpp */; };
+		E2CB590F113CD240006D451A /* ccfxconstants.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685653113C2E6900CAB92C /* ccfxconstants.cpp */; };
+		E2D16D1E113C528B00C95CCC /* ccfxcommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685651113C2E6900CAB92C /* ccfxcommon.cpp */; };
+		E2D16D1F113C528B00C95CCC /* ccfxconstants.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685653113C2E6900CAB92C /* ccfxconstants.cpp */; };
+		E2D16D20113C528B00C95CCC /* prettyprintermain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268565A113C2E6900CAB92C /* prettyprintermain.cpp */; };
+		E2D16D21113C528B00C95CCC /* rawclonepairdata.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268565C113C2E6900CAB92C /* rawclonepairdata.cpp */; };
+		E2D16D22113C529B00C95CCC /* repdet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2D16D10113C511100C95CCC /* repdet.cpp */; };
+		E2D16D24113C529B00C95CCC /* newengine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2BB5FAE113C4EE40034B03A /* newengine.cpp */; };
+		E2D16D26113C529B00C95CCC /* base64encoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268568D113C31EA00CAB92C /* base64encoder.cpp */; };
+		E2D16D27113C529B00C95CCC /* bitvector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685690113C31EA00CAB92C /* bitvector.cpp */; };
+		E2D16D28113C529B00C95CCC /* unportable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2685698113C31EA00CAB92C /* unportable.cpp */; };
+		E2D16D29113C529B00C95CCC /* utf8support.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268569A113C31EA00CAB92C /* utf8support.cpp */; };
+		E2D16DDB113C61AD00C95CCC /* easytorq.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2D16DD1113C612C00C95CCC /* easytorq.cpp */; };
+		E2D16DDC113C61AD00C95CCC /* interpreter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2D16DC6113C611200C95CCC /* interpreter.cpp */; };
+		E2D16DDD113C61AD00C95CCC /* texttoken.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2D16DC9113C611200C95CCC /* texttoken.cpp */; };
+		E2D16DDF113C61AD00C95CCC /* torqcommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2D16DCC113C611200C95CCC /* torqcommon.cpp */; };
+		E2D16E2D113C65D900C95CCC /* utf8support.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E268569A113C31EA00CAB92C /* utf8support.cpp */; };
+		E2D16E31113C679300C95CCC /* pyeasytorq.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2D16E30113C679300C95CCC /* pyeasytorq.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E2CB585E113CAEDB006D451A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08FB7793FE84155DC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E2685664113C2EA000CAB92C;
+			remoteInfo = ccfx;
+		};
+		E2CB5860113CAEDE006D451A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 08FB7793FE84155DC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E2D16DD6113C617500C95CCC;
+			remoteInfo = easytorq;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E2CB5836113CA4F6006D451A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 6;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2CB585A113CAED4006D451A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = final_copy_target;
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		E2685650113C2E6900CAB92C /* ccfx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ccfx.cpp; sourceTree = "<group>"; };
+		E2685651113C2E6900CAB92C /* ccfxcommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ccfxcommon.cpp; sourceTree = "<group>"; };
+		E2685652113C2E6900CAB92C /* ccfxcommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ccfxcommon.h; sourceTree = "<group>"; };
+		E2685653113C2E6900CAB92C /* ccfxconstants.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ccfxconstants.cpp; sourceTree = "<group>"; };
+		E2685654113C2E6900CAB92C /* ccfxconstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ccfxconstants.h; sourceTree = "<group>"; };
+		E2685655113C2E6900CAB92C /* clonedataassembler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clonedataassembler.h; sourceTree = "<group>"; };
+		E2685656113C2E6900CAB92C /* filteringmain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = filteringmain.h; sourceTree = "<group>"; };
+		E2685657113C2E6900CAB92C /* findfilemain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = findfilemain.h; sourceTree = "<group>"; };
+		E2685658113C2E6900CAB92C /* metricmain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = metricmain.h; sourceTree = "<group>"; };
+		E2685659113C2E6900CAB92C /* preprocessorinvoker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = preprocessorinvoker.h; sourceTree = "<group>"; };
+		E268565A113C2E6900CAB92C /* prettyprintermain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prettyprintermain.cpp; sourceTree = "<group>"; };
+		E268565B113C2E6900CAB92C /* prettyprintmain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prettyprintmain.h; sourceTree = "<group>"; };
+		E268565C113C2E6900CAB92C /* rawclonepairdata.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rawclonepairdata.cpp; sourceTree = "<group>"; };
+		E268565D113C2E6900CAB92C /* rawclonepairdata.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rawclonepairdata.h; sourceTree = "<group>"; };
+		E268565E113C2E6900CAB92C /* resource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = resource.h; sourceTree = "<group>"; };
+		E268565F113C2E6900CAB92C /* shapedfragmentcalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shapedfragmentcalculator.h; sourceTree = "<group>"; };
+		E2685660113C2E6900CAB92C /* transformermain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = transformermain.h; sourceTree = "<group>"; };
+		E2685665113C2EA000CAB92C /* ccfx */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ccfx; sourceTree = BUILT_PRODUCTS_DIR; };
+		E268568B113C31EA00CAB92C /* allocaarray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = allocaarray.h; sourceTree = "<group>"; };
+		E268568C113C31EA00CAB92C /* argvbuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = argvbuilder.h; sourceTree = "<group>"; };
+		E268568D113C31EA00CAB92C /* base64encoder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = base64encoder.cpp; sourceTree = "<group>"; };
+		E268568E113C31EA00CAB92C /* base64encoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = base64encoder.h; sourceTree = "<group>"; };
+		E268568F113C31EA00CAB92C /* bitcounttable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bitcounttable.h; sourceTree = "<group>"; };
+		E2685690113C31EA00CAB92C /* bitvector.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bitvector.cpp; sourceTree = "<group>"; };
+		E2685691113C31EA00CAB92C /* bitvector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bitvector.h; sourceTree = "<group>"; };
+		E2685692113C31EA00CAB92C /* datastructureonfile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = datastructureonfile.h; sourceTree = "<group>"; };
+		E2685693113C31EA00CAB92C /* ffuncrenamer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ffuncrenamer.h; sourceTree = "<group>"; };
+		E2685694113C31EA00CAB92C /* filestructwrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = filestructwrapper.h; sourceTree = "<group>"; };
+		E2685695113C31EA00CAB92C /* hash_map_includer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hash_map_includer.h; sourceTree = "<group>"; };
+		E2685696113C31EA00CAB92C /* hash_set_includer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hash_set_includer.h; sourceTree = "<group>"; };
+		E2685697113C31EA00CAB92C /* specialstringmap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = specialstringmap.h; sourceTree = "<group>"; };
+		E2685698113C31EA00CAB92C /* unportable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = unportable.cpp; sourceTree = "<group>"; };
+		E2685699113C31EA00CAB92C /* unportable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = unportable.h; sourceTree = "<group>"; };
+		E268569A113C31EA00CAB92C /* utf8support.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = utf8support.cpp; sourceTree = "<group>"; };
+		E268569B113C31EA00CAB92C /* utf8support.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = utf8support.h; sourceTree = "<group>"; };
+		E268569C113C31EA00CAB92C /* win32streamhandle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = win32streamhandle.h; sourceTree = "<group>"; };
+		E268569D113C31EA00CAB92C /* win32util.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = win32util.cpp; sourceTree = "<group>"; };
+		E268569E113C31EA00CAB92C /* win32util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = win32util.h; sourceTree = "<group>"; };
+		E2BB5FA4113C4E8B0034B03A /* threadqueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = threadqueue.h; sourceTree = "<group>"; };
+		E2BB5FA5113C4E8B0034B03A /* threadqueuetest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = threadqueuetest.cpp; sourceTree = "<group>"; };
+		E2BB5FA9113C4EE40034B03A /* clonedetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clonedetector.h; sourceTree = "<group>"; };
+		E2BB5FAB113C4EE40034B03A /* dtfind.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = dtfind.cpp; sourceTree = "<group>"; };
+		E2BB5FAE113C4EE40034B03A /* newengine.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = newengine.cpp; sourceTree = "<group>"; };
+		E2CB5838113CAAE1006D451A /* ccfx_prep_scripts.ini */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ccfx_prep_scripts.ini; sourceTree = "<group>"; };
+		E2CB5839113CAAE1006D451A /* colors.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = colors.json; sourceTree = "<group>"; };
+		E2CB583A113CAAE1006D451A /* gemx.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gemx.properties; sourceTree = "<group>"; };
+		E2CB583B113CAAE1006D451A /* gemx.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = gemx.sh; sourceTree = "<group>"; };
+		E2CB583C113CAAE1006D451A /* icu4j-4_0_1.jar */ = {isa = PBXFileReference; lastKnownFileType = archive.jar; path = "icu4j-4_0_1.jar"; sourceTree = "<group>"; };
+		E2CB583D113CAAE1006D451A /* icu4j-charsets-4_0_1.jar */ = {isa = PBXFileReference; lastKnownFileType = archive.jar; path = "icu4j-charsets-4_0_1.jar"; sourceTree = "<group>"; };
+		E2CB583E113CAAE1006D451A /* icu4j-localespi-4_0_1.jar */ = {isa = PBXFileReference; lastKnownFileType = archive.jar; path = "icu4j-localespi-4_0_1.jar"; sourceTree = "<group>"; };
+		E2CB5840113CAAE1006D451A /* ccfxconfig.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = ccfxconfig.py; sourceTree = "<group>"; };
+		E2CB5842113CAAE1006D451A /* easytorq_helper.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = easytorq_helper.py; sourceTree = "<group>"; };
+		E2CB5843113CAAE1006D451A /* moduleloadutility.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = moduleloadutility.py; sourceTree = "<group>"; };
+		E2CB5845113CAAE1006D451A /* __init__.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = __init__.py; sourceTree = "<group>"; };
+		E2CB5846113CAAE1006D451A /* __init__.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = __init__.pyc; sourceTree = "<group>"; };
+		E2CB5847113CAAE1006D451A /* cobol.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = cobol.py; sourceTree = "<group>"; };
+		E2CB5848113CAAE1006D451A /* cpp.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = cpp.py; sourceTree = "<group>"; };
+		E2CB5849113CAAE1006D451A /* csharp.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = csharp.py; sourceTree = "<group>"; };
+		E2CB584A113CAAE1006D451A /* java.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = java.py; sourceTree = "<group>"; };
+		E2CB584B113CAAE1006D451A /* plaintext.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = plaintext.py; sourceTree = "<group>"; };
+		E2CB584C113CAAE1006D451A /* preprocessor.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = preprocessor.py; sourceTree = "<group>"; };
+		E2CB584D113CAAE1006D451A /* preprocessor.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = preprocessor.pyc; sourceTree = "<group>"; };
+		E2CB584E113CAAE1006D451A /* visualbasic.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = visualbasic.py; sourceTree = "<group>"; };
+		E2CB584F113CAAE1006D451A /* preprocess.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = preprocess.py; sourceTree = "<group>"; };
+		E2CB5850113CAAE1006D451A /* prescreening.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = prescreening.py; sourceTree = "<group>"; };
+		E2CB5851113CAAE1006D451A /* pythonversionchecker.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = pythonversionchecker.py; sourceTree = "<group>"; };
+		E2CB5852113CAAE1006D451A /* testthreadingutil.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = testthreadingutil.py; sourceTree = "<group>"; };
+		E2CB5853113CAAE1006D451A /* threadingutil.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = threadingutil.py; sourceTree = "<group>"; };
+		E2CB5854113CAAE1006D451A /* utility.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = utility.py; sourceTree = "<group>"; };
+		E2CB5855113CAAE1006D451A /* win32getshortname.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = win32getshortname.py; sourceTree = "<group>"; };
+		E2CB5857113CAAE1006D451A /* ExecutionModuleDirectory.class */ = {isa = PBXFileReference; lastKnownFileType = compiled.javaclass; path = ExecutionModuleDirectory.class; sourceTree = "<group>"; };
+		E2CB5868113CB565006D451A /* Python.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Python.framework; sourceTree = "<group>"; };
+		E2CB586A113CB6D1006D451A /* libboost_thread-mt.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libboost_thread-mt.a"; sourceTree = "<group>"; };
+		E2CB586B113CB6D2006D451A /* libicudata.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libicudata.a; sourceTree = "<group>"; };
+		E2CB586C113CB6D2006D451A /* libicui18n.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libicui18n.a; sourceTree = "<group>"; };
+		E2CB586D113CB6D2006D451A /* libicuio.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libicuio.a; sourceTree = "<group>"; };
+		E2CB586E113CB6D2006D451A /* libicule.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libicule.a; sourceTree = "<group>"; };
+		E2CB586F113CB6D2006D451A /* libiculx.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libiculx.a; sourceTree = "<group>"; };
+		E2CB5870113CB6D2006D451A /* libicutu.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libicutu.a; sourceTree = "<group>"; };
+		E2CB5871113CB6D2006D451A /* libicuuc.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libicuuc.a; sourceTree = "<group>"; };
+		E2CB58E0113CCFCA006D451A /* CCFinderXLib.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CCFinderXLib.cpp; sourceTree = "<group>"; };
+		E2CB58E5113CCFFF006D451A /* lib_CCFinderXLib.so */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = lib_CCFinderXLib.so; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2CB58EB113CD0A9006D451A /* ccfinderx_CCFinderX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ccfinderx_CCFinderX.h; sourceTree = "<group>"; };
+		E2CB5901113CD1B8006D451A /* JavaVM.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaVM.framework; path = System/Library/Frameworks/JavaVM.framework; sourceTree = SDKROOT; };
+		E2D16D10113C511100C95CCC /* repdet.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = repdet.cpp; sourceTree = "<group>"; };
+		E2D16D11113C511100C95CCC /* repdet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = repdet.h; sourceTree = "<group>"; };
+		E2D16DC6113C611200C95CCC /* interpreter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interpreter.cpp; sourceTree = "<group>"; };
+		E2D16DC7113C611200C95CCC /* interpreter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = interpreter.h; sourceTree = "<group>"; };
+		E2D16DC8113C611200C95CCC /* specialchars.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = specialchars.h; sourceTree = "<group>"; };
+		E2D16DC9113C611200C95CCC /* texttoken.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = texttoken.cpp; sourceTree = "<group>"; };
+		E2D16DCA113C611200C95CCC /* texttoken.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = texttoken.h; sourceTree = "<group>"; };
+		E2D16DCB113C611200C95CCC /* torq.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = torq.cpp; sourceTree = "<group>"; };
+		E2D16DCC113C611200C95CCC /* torqcommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = torqcommon.cpp; sourceTree = "<group>"; };
+		E2D16DCD113C611200C95CCC /* torqcommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = torqcommon.h; sourceTree = "<group>"; };
+		E2D16DCE113C611200C95CCC /* torqdll.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = torqdll.h; sourceTree = "<group>"; };
+		E2D16DCF113C611200C95CCC /* torqparser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = torqparser.h; sourceTree = "<group>"; };
+		E2D16DD0113C611200C95CCC /* torqtokenizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = torqtokenizer.h; sourceTree = "<group>"; };
+		E2D16DD1113C612C00C95CCC /* easytorq.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = easytorq.cpp; sourceTree = "<group>"; };
+		E2D16DD2113C612C00C95CCC /* easytorq.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = easytorq.h; sourceTree = "<group>"; };
+		E2D16DD7113C617500C95CCC /* easytorq.so */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = easytorq.so; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2D16E30113C679300C95CCC /* pyeasytorq.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = pyeasytorq.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E2685663113C2EA000CAB92C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2CB5872113CB70D006D451A /* libboost_thread-mt.a in Frameworks */,
+				E2CB5873113CB70D006D451A /* libicudata.a in Frameworks */,
+				E2CB5874113CB70D006D451A /* libicui18n.a in Frameworks */,
+				E2CB5875113CB70D006D451A /* libicuio.a in Frameworks */,
+				E2CB5876113CB70D006D451A /* libicule.a in Frameworks */,
+				E2CB5877113CB70D006D451A /* libiculx.a in Frameworks */,
+				E2CB5878113CB70D006D451A /* libicutu.a in Frameworks */,
+				E2CB5879113CB70D006D451A /* libicuuc.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2CB58E3113CCFFF006D451A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2CB58EE113CD0F6006D451A /* libboost_thread-mt.a in Frameworks */,
+				E2CB58EF113CD0F6006D451A /* libicudata.a in Frameworks */,
+				E2CB58F0113CD0F6006D451A /* libicui18n.a in Frameworks */,
+				E2CB58F1113CD0F6006D451A /* libicuio.a in Frameworks */,
+				E2CB58F2113CD0F6006D451A /* libicule.a in Frameworks */,
+				E2CB58F3113CD0F6006D451A /* libiculx.a in Frameworks */,
+				E2CB58F4113CD0F6006D451A /* libicutu.a in Frameworks */,
+				E2CB58F5113CD0F6006D451A /* libicuuc.a in Frameworks */,
+				E2CB5902113CD1B8006D451A /* JavaVM.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2D16DD5113C617500C95CCC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2CB5894113CC150006D451A /* libboost_thread-mt.a in Frameworks */,
+				E2CB5895113CC150006D451A /* libicudata.a in Frameworks */,
+				E2CB5896113CC150006D451A /* libicui18n.a in Frameworks */,
+				E2CB5897113CC150006D451A /* libicuio.a in Frameworks */,
+				E2CB5898113CC150006D451A /* libicule.a in Frameworks */,
+				E2CB5899113CC150006D451A /* libiculx.a in Frameworks */,
+				E2CB589A113CC150006D451A /* libicutu.a in Frameworks */,
+				E2CB589B113CC150006D451A /* libicuuc.a in Frameworks */,
+				E2CB587A113CB716006D451A /* Python.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* CCFinderOSX */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB5859113CAC4D006D451A /* Dynlibs */,
+				E2CB5858113CAC45006D451A /* Frameworks */,
+				E2CB5837113CAAB3006D451A /* Ressources */,
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6859E8C029090F304C91782 /* Documentation */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+				E2CB5901113CD1B8006D451A /* JavaVM.framework */,
+			);
+			name = CCFinderOSX;
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB58DE113CCFBA006D451A /* CCFinderXLib */,
+				E2D16DC4113C60D000C95CCC /* torq */,
+				E2BB5FC8113C50930034B03A /* repdet */,
+				E2BB5FA8113C4EC80034B03A /* newengine */,
+				E2BB5FA3113C4E6D0034B03A /* threadqueue */,
+				E268568A113C31CF00CAB92C /* common */,
+				E2685661113C2E6E00CAB92C /* ccfx */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E2685665113C2EA000CAB92C /* ccfx */,
+				E2D16DD7113C617500C95CCC /* easytorq.so */,
+				E2CB58E5113CCFFF006D451A /* lib_CCFinderXLib.so */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C6859E8C029090F304C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+		E2685661113C2E6E00CAB92C /* ccfx */ = {
+			isa = PBXGroup;
+			children = (
+				E2685650113C2E6900CAB92C /* ccfx.cpp */,
+				E2685651113C2E6900CAB92C /* ccfxcommon.cpp */,
+				E2685652113C2E6900CAB92C /* ccfxcommon.h */,
+				E2685653113C2E6900CAB92C /* ccfxconstants.cpp */,
+				E2685654113C2E6900CAB92C /* ccfxconstants.h */,
+				E2685655113C2E6900CAB92C /* clonedataassembler.h */,
+				E2685656113C2E6900CAB92C /* filteringmain.h */,
+				E2685657113C2E6900CAB92C /* findfilemain.h */,
+				E2685658113C2E6900CAB92C /* metricmain.h */,
+				E2685659113C2E6900CAB92C /* preprocessorinvoker.h */,
+				E268565A113C2E6900CAB92C /* prettyprintermain.cpp */,
+				E268565B113C2E6900CAB92C /* prettyprintmain.h */,
+				E268565C113C2E6900CAB92C /* rawclonepairdata.cpp */,
+				E268565D113C2E6900CAB92C /* rawclonepairdata.h */,
+				E268565E113C2E6900CAB92C /* resource.h */,
+				E268565F113C2E6900CAB92C /* shapedfragmentcalculator.h */,
+				E2685660113C2E6900CAB92C /* transformermain.h */,
+			);
+			name = ccfx;
+			sourceTree = "<group>";
+		};
+		E268568A113C31CF00CAB92C /* common */ = {
+			isa = PBXGroup;
+			children = (
+				E268568B113C31EA00CAB92C /* allocaarray.h */,
+				E268568C113C31EA00CAB92C /* argvbuilder.h */,
+				E268568D113C31EA00CAB92C /* base64encoder.cpp */,
+				E268568E113C31EA00CAB92C /* base64encoder.h */,
+				E268568F113C31EA00CAB92C /* bitcounttable.h */,
+				E2685690113C31EA00CAB92C /* bitvector.cpp */,
+				E2685691113C31EA00CAB92C /* bitvector.h */,
+				E2685692113C31EA00CAB92C /* datastructureonfile.h */,
+				E2685693113C31EA00CAB92C /* ffuncrenamer.h */,
+				E2685694113C31EA00CAB92C /* filestructwrapper.h */,
+				E2685695113C31EA00CAB92C /* hash_map_includer.h */,
+				E2685696113C31EA00CAB92C /* hash_set_includer.h */,
+				E2685697113C31EA00CAB92C /* specialstringmap.h */,
+				E2685698113C31EA00CAB92C /* unportable.cpp */,
+				E2685699113C31EA00CAB92C /* unportable.h */,
+				E268569A113C31EA00CAB92C /* utf8support.cpp */,
+				E268569B113C31EA00CAB92C /* utf8support.h */,
+				E268569C113C31EA00CAB92C /* win32streamhandle.h */,
+				E268569D113C31EA00CAB92C /* win32util.cpp */,
+				E268569E113C31EA00CAB92C /* win32util.h */,
+			);
+			name = common;
+			sourceTree = "<group>";
+		};
+		E2BB5FA3113C4E6D0034B03A /* threadqueue */ = {
+			isa = PBXGroup;
+			children = (
+				E2BB5FA4113C4E8B0034B03A /* threadqueue.h */,
+				E2BB5FA5113C4E8B0034B03A /* threadqueuetest.cpp */,
+			);
+			name = threadqueue;
+			sourceTree = "<group>";
+		};
+		E2BB5FA8113C4EC80034B03A /* newengine */ = {
+			isa = PBXGroup;
+			children = (
+				E2BB5FA9113C4EE40034B03A /* clonedetector.h */,
+				E2BB5FAA113C4EE40034B03A /* dtfind */,
+				E2BB5FAE113C4EE40034B03A /* newengine.cpp */,
+			);
+			name = newengine;
+			sourceTree = "<group>";
+		};
+		E2BB5FAA113C4EE40034B03A /* dtfind */ = {
+			isa = PBXGroup;
+			children = (
+				E2BB5FAB113C4EE40034B03A /* dtfind.cpp */,
+			);
+			path = dtfind;
+			sourceTree = "<group>";
+		};
+		E2BB5FC8113C50930034B03A /* repdet */ = {
+			isa = PBXGroup;
+			children = (
+				E2D16D10113C511100C95CCC /* repdet.cpp */,
+				E2D16D11113C511100C95CCC /* repdet.h */,
+			);
+			name = repdet;
+			sourceTree = "<group>";
+		};
+		E2CB5837113CAAB3006D451A /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB5838113CAAE1006D451A /* ccfx_prep_scripts.ini */,
+				E2CB5839113CAAE1006D451A /* colors.json */,
+				E2CB583A113CAAE1006D451A /* gemx.properties */,
+				E2CB583B113CAAE1006D451A /* gemx.sh */,
+				E2CB583C113CAAE1006D451A /* icu4j-4_0_1.jar */,
+				E2CB583D113CAAE1006D451A /* icu4j-charsets-4_0_1.jar */,
+				E2CB583E113CAAE1006D451A /* icu4j-localespi-4_0_1.jar */,
+				E2CB583F113CAAE1006D451A /* scripts */,
+				E2CB5856113CAAE1006D451A /* utility */,
+			);
+			name = Ressources;
+			sourceTree = "<group>";
+		};
+		E2CB583F113CAAE1006D451A /* scripts */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB5840113CAAE1006D451A /* ccfxconfig.py */,
+				E2CB5842113CAAE1006D451A /* easytorq_helper.py */,
+				E2CB5843113CAAE1006D451A /* moduleloadutility.py */,
+				E2CB5844113CAAE1006D451A /* pp */,
+				E2CB584F113CAAE1006D451A /* preprocess.py */,
+				E2CB5850113CAAE1006D451A /* prescreening.py */,
+				E2CB5851113CAAE1006D451A /* pythonversionchecker.py */,
+				E2CB5852113CAAE1006D451A /* testthreadingutil.py */,
+				E2CB5853113CAAE1006D451A /* threadingutil.py */,
+				E2CB5854113CAAE1006D451A /* utility.py */,
+				E2CB5855113CAAE1006D451A /* win32getshortname.py */,
+			);
+			path = scripts;
+			sourceTree = "<group>";
+		};
+		E2CB5844113CAAE1006D451A /* pp */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB5845113CAAE1006D451A /* __init__.py */,
+				E2CB5846113CAAE1006D451A /* __init__.pyc */,
+				E2CB5847113CAAE1006D451A /* cobol.py */,
+				E2CB5848113CAAE1006D451A /* cpp.py */,
+				E2CB5849113CAAE1006D451A /* csharp.py */,
+				E2CB584A113CAAE1006D451A /* java.py */,
+				E2CB584B113CAAE1006D451A /* plaintext.py */,
+				E2CB584C113CAAE1006D451A /* preprocessor.py */,
+				E2CB584D113CAAE1006D451A /* preprocessor.pyc */,
+				E2CB584E113CAAE1006D451A /* visualbasic.py */,
+			);
+			path = pp;
+			sourceTree = "<group>";
+		};
+		E2CB5856113CAAE1006D451A /* utility */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB5857113CAAE1006D451A /* ExecutionModuleDirectory.class */,
+			);
+			path = utility;
+			sourceTree = "<group>";
+		};
+		E2CB5858113CAC45006D451A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB5868113CB565006D451A /* Python.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E2CB5859113CAC4D006D451A /* Dynlibs */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB586A113CB6D1006D451A /* libboost_thread-mt.a */,
+				E2CB586B113CB6D2006D451A /* libicudata.a */,
+				E2CB586C113CB6D2006D451A /* libicui18n.a */,
+				E2CB586D113CB6D2006D451A /* libicuio.a */,
+				E2CB586E113CB6D2006D451A /* libicule.a */,
+				E2CB586F113CB6D2006D451A /* libiculx.a */,
+				E2CB5870113CB6D2006D451A /* libicutu.a */,
+				E2CB5871113CB6D2006D451A /* libicuuc.a */,
+			);
+			name = Dynlibs;
+			sourceTree = "<group>";
+		};
+		E2CB58DE113CCFBA006D451A /* CCFinderXLib */ = {
+			isa = PBXGroup;
+			children = (
+				E2CB58EB113CD0A9006D451A /* ccfinderx_CCFinderX.h */,
+				E2CB58E0113CCFCA006D451A /* CCFinderXLib.cpp */,
+			);
+			name = CCFinderXLib;
+			sourceTree = "<group>";
+		};
+		E2D16DC4113C60D000C95CCC /* torq */ = {
+			isa = PBXGroup;
+			children = (
+				E2D16E30113C679300C95CCC /* pyeasytorq.cpp */,
+				E2D16DD1113C612C00C95CCC /* easytorq.cpp */,
+				E2D16DD2113C612C00C95CCC /* easytorq.h */,
+				E2D16DC6113C611200C95CCC /* interpreter.cpp */,
+				E2D16DC7113C611200C95CCC /* interpreter.h */,
+				E2D16DC8113C611200C95CCC /* specialchars.h */,
+				E2D16DC9113C611200C95CCC /* texttoken.cpp */,
+				E2D16DCA113C611200C95CCC /* texttoken.h */,
+				E2D16DCB113C611200C95CCC /* torq.cpp */,
+				E2D16DCC113C611200C95CCC /* torqcommon.cpp */,
+				E2D16DCD113C611200C95CCC /* torqcommon.h */,
+				E2D16DCE113C611200C95CCC /* torqdll.h */,
+				E2D16DCF113C611200C95CCC /* torqparser.h */,
+				E2D16DD0113C611200C95CCC /* torqtokenizer.h */,
+			);
+			name = torq;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		E2CB58E1113CCFFF006D451A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2D16DD3113C617500C95CCC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		E2685664113C2EA000CAB92C /* ccfx */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2685671113C2ED800CAB92C /* Build configuration list for PBXNativeTarget "ccfx" */;
+			buildPhases = (
+				E2685662113C2EA000CAB92C /* Sources */,
+				E2685663113C2EA000CAB92C /* Frameworks */,
+				E2CB5836113CA4F6006D451A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ccfx;
+			productName = ccfx;
+			productReference = E2685665113C2EA000CAB92C /* ccfx */;
+			productType = "com.apple.product-type.tool";
+		};
+		E2CB58E4113CCFFF006D451A /* CCFinderXLib */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2CB58E8113CD01E006D451A /* Build configuration list for PBXNativeTarget "CCFinderXLib" */;
+			buildPhases = (
+				E2CB58E1113CCFFF006D451A /* Headers */,
+				E2CB58E2113CCFFF006D451A /* Sources */,
+				E2CB58E3113CCFFF006D451A /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CCFinderXLib;
+			productName = CCFinderXLib;
+			productReference = E2CB58E5113CCFFF006D451A /* lib_CCFinderXLib.so */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+		E2D16DD6113C617500C95CCC /* easytorq */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2D16DDA113C61A800C95CCC /* Build configuration list for PBXNativeTarget "easytorq" */;
+			buildPhases = (
+				E2D16DD3113C617500C95CCC /* Headers */,
+				E2D16DD4113C617500C95CCC /* Sources */,
+				E2D16DD5113C617500C95CCC /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = easytorq;
+			productName = easytorq;
+			productReference = E2D16DD7113C617500C95CCC /* easytorq.so */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Software Analysis and Intelligence Lab (SAIL), Queen's University";
+			};
+			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "CCFinderOSX" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 08FB7794FE84155DC02AAC07 /* CCFinderOSX */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E2685664113C2EA000CAB92C /* ccfx */,
+				E2D16DD6113C617500C95CCC /* easytorq */,
+				E2CB58E4113CCFFF006D451A /* CCFinderXLib */,
+				E2CB585B113CAED4006D451A /* Copy Files */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E2685662113C2EA000CAB92C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2D16D22113C529B00C95CCC /* repdet.cpp in Sources */,
+				E2D16D24113C529B00C95CCC /* newengine.cpp in Sources */,
+				E2D16D26113C529B00C95CCC /* base64encoder.cpp in Sources */,
+				E2D16D27113C529B00C95CCC /* bitvector.cpp in Sources */,
+				E2D16D28113C529B00C95CCC /* unportable.cpp in Sources */,
+				E2D16D29113C529B00C95CCC /* utf8support.cpp in Sources */,
+				E2BB5FA7113C4EB40034B03A /* ccfx.cpp in Sources */,
+				E2D16D1E113C528B00C95CCC /* ccfxcommon.cpp in Sources */,
+				E2D16D1F113C528B00C95CCC /* ccfxconstants.cpp in Sources */,
+				E2D16D20113C528B00C95CCC /* prettyprintermain.cpp in Sources */,
+				E2D16D21113C528B00C95CCC /* rawclonepairdata.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2CB58E2113CCFFF006D451A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2CB590B113CD240006D451A /* base64encoder.cpp in Sources */,
+				E2CB590C113CD240006D451A /* unportable.cpp in Sources */,
+				E2CB590D113CD240006D451A /* utf8support.cpp in Sources */,
+				E2CB590E113CD240006D451A /* ccfxcommon.cpp in Sources */,
+				E2CB590F113CD240006D451A /* ccfxconstants.cpp in Sources */,
+				E2CB58E9113CD06A006D451A /* CCFinderXLib.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E2D16DD4113C617500C95CCC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2D16E2D113C65D900C95CCC /* utf8support.cpp in Sources */,
+				E2D16DDB113C61AD00C95CCC /* easytorq.cpp in Sources */,
+				E2D16DDC113C61AD00C95CCC /* interpreter.cpp in Sources */,
+				E2D16DDD113C61AD00C95CCC /* texttoken.cpp in Sources */,
+				E2D16DDF113C61AD00C95CCC /* torqcommon.cpp in Sources */,
+				E2D16E31113C679300C95CCC /* pyeasytorq.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E2CB585F113CAEDB006D451A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E2685664113C2EA000CAB92C /* ccfx */;
+			targetProxy = E2CB585E113CAEDB006D451A /* PBXContainerItemProxy */;
+		};
+		E2CB5861113CAEDE006D451A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E2D16DD6113C617500C95CCC /* easytorq */;
+			targetProxy = E2CB5860113CAEDE006D451A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB923608733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "";
+				LIBRARY_SEARCH_PATHS = "";
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+				VALID_ARCHS = x86_64;
+			};
+			name = Debug;
+		};
+		1DEB923708733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		E2685667113C2EA100CAB92C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_PPC64 = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_VERSION = "";
+				HEADER_SEARCH_PATHS = /opt/local/include/;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DLITTLE_ENDIAN",
+					"-DCXLM_NO_ENC",
+					"-DCODE_CONVERSION_SUPPORT",
+					"-DWSTRING_CONVERSION_SUPPORT",
+					"-DREQUIRE_RNR",
+					"-DOS_MACOSX",
+					"$(OTHER_CFLAGS)",
+				);
+				OTHER_LDFLAGS = "";
+				PREBINDING = NO;
+				PRODUCT_NAME = ccfx;
+				VALID_ARCHS = x86_64;
+			};
+			name = Debug;
+		};
+		E2685668113C2EA100CAB92C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ccfx;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		E2CB585C113CAED4006D451A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = "Copy Files";
+			};
+			name = Debug;
+		};
+		E2CB585D113CAED4006D451A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = "Copy Files";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		E2CB58E6113CD000006D451A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				EXECUTABLE_EXTENSION = so;
+				EXECUTABLE_PREFIX = lib_;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				HEADER_SEARCH_PATHS = /opt/local/include/;
+				INSTALL_PATH = "@rpath";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DOS_MACOSX",
+					"-DLITTLE_ENDIAN",
+					"-DCXLM_NO_ENC",
+					"-DCODE_CONVERSION_SUPPORT",
+					"-DWSTRING_CONVERSION_SUPPORT",
+					"-DREQUIRE_RNR",
+					"$(OTHER_CFLAGS)",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = CCFinderXLib;
+			};
+			name = Debug;
+		};
+		E2CB58E7113CD000006D451A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = CCFinderXLib;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		E2D16DD8113C617500C95CCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				EXECUTABLE_EXTENSION = so;
+				EXECUTABLE_PREFIX = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				HEADER_SEARCH_PATHS = (
+					"\"$(SRCROOT)/Python.framework/Versions/2.6/include/python2.6\"",
+					/opt/local/include,
+				);
+				INSTALL_PATH = "@rpath";
+				LIBRARY_SEARCH_PATHS = "\"$(SRCROOT)\"";
+				MACH_O_TYPE = mh_dylib;
+				OTHER_CPLUSPLUSFLAGS = (
+					"-DOS_MACOSX",
+					"-DLITTLE_ENDIAN",
+					"-DCXLM_NO_ENC",
+					"-DCODE_CONVERSION_SUPPORT",
+					"-DWSTRING_CONVERSION_SUPPORT",
+					"-DREQUIRE_RNR",
+					"$(OTHER_CFLAGS)",
+				);
+				OTHER_LDFLAGS = "";
+				PREBINDING = NO;
+				PRODUCT_NAME = easytorq;
+				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = dynamic;
+				VALID_ARCHS = x86_64;
+			};
+			name = Debug;
+		};
+		E2D16DD9113C617500C95CCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EXECUTABLE_PREFIX = lib;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					/opt/local/lib,
+					"\"$(SRCROOT)\"",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = easytorq;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "CCFinderOSX" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923608733DC60010E9CD /* Debug */,
+				1DEB923708733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2685671113C2ED800CAB92C /* Build configuration list for PBXNativeTarget "ccfx" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2685667113C2EA100CAB92C /* Debug */,
+				E2685668113C2EA100CAB92C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2CB5862113CAEFC006D451A /* Build configuration list for PBXAggregateTarget "Copy Files" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2CB585C113CAED4006D451A /* Debug */,
+				E2CB585D113CAED4006D451A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2CB58E8113CD01E006D451A /* Build configuration list for PBXNativeTarget "CCFinderXLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2CB58E6113CD000006D451A /* Debug */,
+				E2CB58E7113CD000006D451A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2D16DDA113C61A800C95CCC /* Build configuration list for PBXNativeTarget "easytorq" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2D16DD8113C617500C95CCC /* Debug */,
+				E2D16DD9113C617500C95CCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

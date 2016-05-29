@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents
+END
+Text_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Text_Suite.py
+END
+Disk_Folder_File_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Disk_Folder_File_Suite.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/__init__.py
+END
+Processes_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Processes_Suite.py
+END
+System_Events_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/System_Events_Suite.py
+END
+Login_Items_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Login_Items_Suite.py
+END
+Folder_Actions_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Folder_Actions_Suite.py
+END
+Hidden_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Hidden_Suite.py
+END
+Power_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Power_Suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/SystemEvents/Standard_Suite.py
+END

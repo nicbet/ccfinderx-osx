@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/CodeWarrior
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/CodeWarrior/__init__.py
+END
+Required.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/CodeWarrior/Required.py
+END
+Metrowerks_Shell_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/CodeWarrior/Metrowerks_Shell_Suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/CodeWarrior/Standard_Suite.py
+END
+CodeWarrior_suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/CodeWarrior/CodeWarrior_suite.py
+END

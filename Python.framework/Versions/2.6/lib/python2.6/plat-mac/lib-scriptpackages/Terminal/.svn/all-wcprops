@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Terminal
+END
+Terminal_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Terminal/Terminal_Suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Terminal/Standard_Suite.py
+END
+Text_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Terminal/Text_Suite.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2/branches/OSX/CCFinderOSX/Python.framework/Versions/2.6/lib/python2.6/plat-mac/lib-scriptpackages/Terminal/__init__.py
+END
