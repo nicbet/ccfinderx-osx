@@ -1,0 +1,9 @@
+### CCFinderX for Mac OS X
+
+This project is organized as an XCode Project to be compiled under Mac OS X 10.6+
+
+### Attribution
+
+AIST CCFinderX, originally developed by Toshihiro Kamiya is a code-clone detector, which detects code clones (duplicated code fragments) from source files written in Java, C/C++, COBOL, VB, C#. CCFinderX is a major version up of CCFinder, and it has been totally re-designed and re-implemented from scratch. Its new design and technologies aim at improving performance, enabling a user-side customization of a preprocessor, and providing an interactive analysis based on metrics.
+
+http://www.ccfinder.net/ccfinderxos.html
